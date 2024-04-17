@@ -1,0 +1,95 @@
+repo_name: lxmwaniky/mpesa-daraja-plugin
+report_id: 45d8986c6b7e0de029d0cc29b272c25d
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-17T21:43:17+00:00'
+requested_by: flavian-anselmo
+provider: github
+branch: main
+detected_tools_count: 7
+tools:
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/lxmwaniky/mpesa-daraja-plugin
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/lxmwaniky/mpesa-daraja-plugin/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: flavian-anselmo
+  last_updated_on: 2022-07-03 00:59:17.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/lxmwaniky/mpesa-daraja-plugin/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: flavian-anselmo
+  last_updated_on: 2022-07-03 00:59:17.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lxmwaniky/mpesa-daraja-plugin
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/lxmwaniky/mpesa-daraja-plugin/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: flavian-anselmo
+  last_updated_on: 2022-06-20 19:50:37.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/lxmwaniky/mpesa-daraja-plugin/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: flavian-anselmo
+  last_updated_on: 2022-07-03 00:59:17.000000000 Z
+- name: http
+  description: A composable
+  package_url: https://pub.dartlang.org/http
+  version: 0.13.4
+  license: BSD-3-Clause
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/lxmwaniky/mpesa-daraja-plugin/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: flavian-anselmo
+  last_updated_on: 2022-06-20 22:24:43.000000000 Z
